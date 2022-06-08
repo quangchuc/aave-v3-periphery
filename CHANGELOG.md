@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.1](https://github.com/aave/aave-v3-periphery/compare/v1.18.0...v1.18.1) (2022-06-08)
+
+
+### Bug Fixes
+
+* add value to struct ([5ab18b5](https://github.com/aave/aave-v3-periphery/commit/5ab18b5bca1d7247d63ac01c41a09d235a5e5067))
+
 ## [1.18.0](https://github.com/aave/aave-v3-periphery/compare/v1.17.0...v1.18.0) (2022-06-08)
 
 
